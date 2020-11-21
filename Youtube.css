@@ -34,6 +34,7 @@
 
 .u-section-1 .u-text-2 {
   font-weight: 700;
+  font-size: 1.5rem;
   margin: 40px 0 0;
 }
 
@@ -82,10 +83,6 @@
     min-height: 167px;
   }
 
-  .u-section-1 .u-text-2 {
-    font-size: 1.5rem;
-  }
-
   .u-section-1 .u-layout-cell-2 {
     min-height: 242px;
   }
@@ -106,7 +103,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 557px;
+    min-height: 846px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -145,13 +142,16 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-right: 328px;
+    margin-top: 49px;
+    margin-right: auto;
+    margin-left: 15px;
+    padding: 4px 53px 5px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 866px;
+    min-height: 1217px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -185,13 +185,15 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-right: 148px;
+    margin-top: 21px;
+    margin-bottom: 60px;
+    margin-left: 0;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 715px;
+    min-height: 1113px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -218,7 +220,7 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-right: 0;
+    padding: 0 34px;
   }
 }.u-section-2 {
   background-image: none;
@@ -624,13 +626,14 @@
 
   .u-section-2 .u-text-1 {
     font-size: 3rem;
-    margin-left: 94px;
-    margin-right: 90px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 0;
   }
 
   .u-section-2 .u-text-2 {
-    margin-left: 114px;
-    margin-right: 64px;
+    margin-top: 20px;
+    margin-left: auto;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -643,13 +646,14 @@
   }
 
   .u-section-2 .u-text-3 {
+    margin-top: 20px;
     margin-right: 0;
-    margin-left: 212px;
+    margin-left: 0;
   }
 
   .u-section-2 .u-text-4 {
-    margin-right: 144px;
-    margin-left: 212px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-layout-cell-3 {
@@ -663,12 +667,13 @@
 
   .u-section-2 .u-text-5 {
     font-size: 3rem;
-    margin-left: 94px;
-    margin-right: 90px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 0;
   }
 
   .u-section-2 .u-text-6 {
-    margin-left: 114px;
-    margin-right: 64px;
+    margin-top: 20px;
+    margin-left: auto;
   }
 }
